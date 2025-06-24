@@ -3,7 +3,9 @@ RareTECHハッカソン入門コースの事前テスト提出用のリポジト
 
 [事前テストの説明資料](https://var-inc.notion.site/20f03b3816ba801dae6ac42c231d2de3)
 
-## ①Pythonの課題
+プログラム実行のLoomは[こちら](https://www.loom.com/share/41bbd4ffa9944bd1b047949aafe21f6d?sid=309a408d-d9e5-4b94-8c4c-66f886cada10)
+
+## Pythonの課題
 
 > まず最初はPythonの課題です。課題は以下になります。
 > 
